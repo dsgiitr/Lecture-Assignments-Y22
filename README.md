@@ -3,7 +3,7 @@
 ### Pre-requiste Maths
 
 ### Machine Learning
-- **Assignment 1**: [ML Basics](ML-0.md)
+- **Assignment 1**: [ML Basics](ML/ML-0.md)
 
 ### Exploratory Data Analysis
 
