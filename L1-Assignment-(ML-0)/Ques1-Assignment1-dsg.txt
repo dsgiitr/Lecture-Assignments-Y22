@@ -1,0 +1,1 @@
+In full batch gradient descent, we use the entirety of the dataset at once for training the model and hence their order is irrelevant as it would have been if we had subgrouped the data and trained the model in those groups.
