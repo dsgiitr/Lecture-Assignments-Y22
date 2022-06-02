@@ -68,8 +68,8 @@ Good job until now! But, to decide the hyperparameters using the test accuracy i
 This is a self learning, self paced task.
 </br>
 Solving this is not compulsory.
-You are required to scape data from [amazon](https://www.amazon.in/s?k=smartphones&rh=p_36%3A900000-1000000&crid=2HWQM77E4E53F&qid=1654178719&rnid=1318502031&sprefix=smartphones+%2Caps%2C210)
-Scrape relevant features what you think is necessary and predict price of a particular smartphone. You can use bs4 or any scraper you want.
+You are required to scape data from this [amazon](https://www.amazon.in/s?k=smartphones&rh=p_36%3A900000-1000000&crid=2HWQM77E4E53F&qid=1654178719&rnid=1318502031&sprefix=smartphones+%2Caps%2C210) link.
+Scrape relevant features what you think is necessary and predict price of a particular smartphone if we input the features of the smartphone along with the brand. You can use bs4 or any scraper you want.
 
 
 ## How to Submit?
