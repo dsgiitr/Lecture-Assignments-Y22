@@ -6,8 +6,9 @@ Made by: Pranjal Gulati and Aryan Khanuja
 You task here is to go through [this link](https://www.kaggle.com/datasets/andonians/random-linear-regression) and perform simple linear regression using sklearn.
 Then you must submit your work here as well as on the dataset above in kaggle website. Share the link of your notebook on kaggle along with your notebook on github.
  
-### Task 2
-Apply polynomial regression on [this link](https://www.kaggle.com/datasets/fplandes/covid19-granular-demographics-and-times-series).
+
+## Task 2
+Apply polynomial regression on [this link](https://www.kaggle.com/datasets/shubhankitsirvaiya06/diamond-price-prediction).
 Submit your notebook to github as well as kaggle. Share kaggle link.
 
 ### Task 3
