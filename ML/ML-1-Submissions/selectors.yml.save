@@ -1,0 +1,41 @@
+Title:
+    css: 'h1.a-size-large span.a-size-large'
+    xpath: null
+    type: Text
+Ram:
+    css: 'div.a-expander-content tr:nth-of-type(2) td.a-size-base'
+    xpath: null
+    type: Text
+Size:
+    css: 'table.a-keyvalue tr:nth-of-type(3) td.a-size-base'
+    xpath: null
+    type: Text
+Camera:
+    css: 'tr:nth-of-type(11) td.a-size-base'
+    xpath: null
+    type: Text
+Battery:
+    css: 'tr:nth-of-type(14) td.a-size-base'
+    xpath: null
+    type: Text
+Weight:
+    css: 'tr:nth-of-type(19) td.a-size-base'
+    xpath: null
+    type: Text
+Rank:
+    css: 'table.a-keyvalue td > span span:nth-of-type(2)'
+    xpath: null
+    type: Text
+Reviews:
+    css: 'td.a-size-base a.a-popover-trigger'
+    xpath: null
+    type: Text
+People_Rated:
+    css: 'td.a-size-base a.a-link-normal span.a-size-base'
+    xpath: null
+    type: Text
+Price:
+    css: 'span.a-price.a-size-medium span:nth-of-type(2)'
+    xpath: null
+    type: Text
+
