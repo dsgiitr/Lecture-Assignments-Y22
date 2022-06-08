@@ -7,6 +7,7 @@
 - **Assignment 2**: [Linear, Logistic, KNN](ML/ML-1.md)
 
 ### Exploratory Data Analysis
+- **Assignment 1**: [EDA-1](EDA/EDA-1.md)
 
 ### Deep Learning
 
