@@ -25,11 +25,23 @@ Go through this short [Hands-on Tutorial](https://courses.analyticsvidhya.com/co
 (Not Compulsory) - If you are able to code along and reach the end of the tutorial,you can make a submission regarding this on [this link](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#About). Share the Submission results if you made a Successful Submission !
 
 
-
 PS- Don't forget to refer the related Documentations of [Matplotlib](https://matplotlib.org/stable/plot_types/index.html),[Seaborn](https://seaborn.pydata.org/tutorial.html),[Pandas](https://pandas.pydata.org/docs/user_guide/10min.html#missing-data) etc. while working and experimenting with the Data.
 
+## Problem 2:
+## Task 1
+Learn about the theory and implementation of handling Categorical Variables from [this link](https://www.kaggle.com/code/alexisbcook/categorical-variables/tutorial). Try to complete [this exercise](https://www.kaggle.com/code/scratchpad/notebook3191e8b423/edit) to gain more clarity.
+Learn about the theory and implementation of various methods of Feature Selection from [this link](https://medium.com/analytics-vidhya/descriptive-predictive-and-feature-selection-on-time-series-data-813a202312b1).
+
+
+## Task 2
+
+Download the [Car Dataset](https://www.kaggle.com/datasets/goyalshalini93/car-data?resource=download) and perform EDA (handling missing values, categorical encoding, etc.). Using different Filter methods, find the most relevant features, taking car price as the dependent variable.   
+
+Apply Forward feature selection for a Linear Regression model for different values of k_features. Plot a graph of different value of k_features with the corresponding accuracy and determine it's best value. 
+
+### Link to resources of lecture:
+https://hackmd.io/1ruiZhSkT3S0dfgiMMBiKg?view
 ## How to Submit?
 Submit a well-formatted Jupyter Notebook. Use Markdown cells to separate each question and for any explanation that you wish to provide.
 
 Create your notebook inside `EDA-1-Submissions/` and name it as `<your>-<name>.ipynb`
-
