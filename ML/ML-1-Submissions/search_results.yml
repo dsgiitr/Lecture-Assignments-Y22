@@ -1,0 +1,14 @@
+products:
+    css: 'div[data-component-type="s-search-result"]'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        title:
+            css: 'h2 a.a-link-normal.a-text-normal'
+            xpath: null
+            type: Text
+        url:
+            css: 'h2 a.a-link-normal.a-text-normal'
+            xpath: null
+            type: Link
