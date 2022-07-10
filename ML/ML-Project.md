@@ -43,7 +43,7 @@ Use any of them
 Find skewness in your dataset and provide the method of fixing it<br>
 Why was this method used?
 ### Step 4
-Do an extensive feature selection using different techniques like ANOVA using statsmodel api, using scikit learn's in-built functionalities, correlations<br>
+Do an extensive feature selection using ANOVA<br>
 
 Note:- This step might be tough for you but it's important so make sure you ask doubts 
 ### Step 5
