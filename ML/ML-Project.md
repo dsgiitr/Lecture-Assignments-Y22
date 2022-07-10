@@ -36,14 +36,12 @@ Why is this step important in feature engineering?
 ### Step 2
 What are Outliers?<br>
 Identify the outliers in the datasets and remove them<br>
-Now there are various methods for this:-<br>
-[Using Percentile](https://youtu.be/7sJaRHF03K8)<br>
-[Using z-score](https://youtu.be/KFuEAGR3HS4)<br>
-[Using IQR](https://youtu.be/A3gClkblXK8)<br>
+Now there are various methods for doing this<br> 
 Use any of them
 
 ### Step 3
-Find skewness in your dataset and try to fix it with log-transformation
+Find skewness in your dataset and provide the method of fixing it<br>
+Why was this method used?
 ### Step 4
 Do an extensive feature selection using different techniques like ANOVA using statsmodel api, using scikit learn's in-built functionalities, correlations<br>
 
