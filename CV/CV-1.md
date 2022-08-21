@@ -7,17 +7,21 @@ Made by: Pranjal Gulati
 Implement the convolution operation and image processing kernels from scratch. The following three kernels need to implemented:
 
 - **Sobel X Kernel**: for gradients in X direction
+
 $$\begin{bmatrix}
 -1 & 0 & 1 \\
 -2 & 0 & 2 \\
 -1 & 0 & 1 \\
 \end{bmatrix}$$
+
 - **Sobel Y Kernel**: for gradients in Y direction
+
 $$\begin{bmatrix}
 -1 & -2 & -1 \\
 0 & 0 & 0 \\
 1 & 2 & 1 \\
 \end{bmatrix}$$
+
 - **Gaussian Kernel** (with $\sigma = 1.4$): for smoothing
 
 $$\frac{1}{159}
