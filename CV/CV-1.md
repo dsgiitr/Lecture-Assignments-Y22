@@ -48,19 +48,13 @@ def get_kernel(name):
 ### 2. Check your implementation
 
 Use [this](assets/lord_einstein.jpg) image for the following steps:
-<center>
-<img src="assets/lord_einstein.jpg" width="200">
-</center>
 
 - Apply the Gaussian filter on the image. Call the output `smoothened`
 - Apply the Sobel X and Sobel Y filters on `smoothened`. Call them `sobel_x` and `sobel_y` respectively.
 - Calculate the gradient magnitude: $I_{xy} = \sqrt{I_x(x,y)^2 + I_y(x,y)^2}$ where $I_x$ is `sobel_x`, $I_y$ is `sobel_y` and $(x, y)$ represents a particular pixel.
 - Display this gradient magnitude
 
-The output must be as follows:
-<center>
-<img src="assets/lord_einsteins_edges.jpg" width="200">
-</center>
+<img src="assets/final.jpg" width="400">
 
 ### 3. Do you really understand conv backprop?
 
