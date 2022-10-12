@@ -12,5 +12,6 @@
 ### Deep Learning
 
 ### Computer Vision
+- **Assignment 1**: [CNN Basics](CV/CV-1.md)
 
 ### Natural Language Processing
